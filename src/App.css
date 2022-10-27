@@ -33,6 +33,7 @@ body {
 .profile-share-wrap {
     align-self: flex-end;
     margin-right: 100px;
+    cursor: pointer;
   }
   .profile-share-wrap:hover .share-hover {
     display: inline;
