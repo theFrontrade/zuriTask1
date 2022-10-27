@@ -16,7 +16,7 @@ export default Links
 
 export const linkList = [
     {
-        "id" : 1,
+        "id" : "twitter",
         "name" : "theFrontrade",
         "link" : "https://twitter.com/theFrontrade"
     },
