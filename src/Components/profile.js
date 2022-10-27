@@ -10,7 +10,7 @@ const Profile = () => {
       </div>
       <div className="profileImg-wrap">
         <img src="/img/icon.svg" alt="img" className="profile-icon" />
-        <img id="profile_img" src="./img/myimg1.jpg" alt="img" />
+        <img id="profile__img" src="./img/myimg1.jpg" alt="img" />
       </div>
       <p id="twitter">thefrontrade</p>
       <h2 id="slack" style={{ display: "none" }}>Samuel Adeniyi</h2>
