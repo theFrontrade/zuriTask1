@@ -1,11 +1,8 @@
-@font-face {
-  font-family: text-font;
-  src: url("/public/Inter-Regular.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 /* main style */
 body {
   background-color: #f4f5f7;
-  font-family: text-font;
+  font-family: 'Inter', sans-serif;;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
