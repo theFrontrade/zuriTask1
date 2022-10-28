@@ -58,7 +58,7 @@ body {
 .profileImg-wrap:hover .profile-icon {
   display: block;
 }
-#profile_img {
+#profile__img {
   width: 150px;
   object-fit: cover;
   border-radius: 100px;
