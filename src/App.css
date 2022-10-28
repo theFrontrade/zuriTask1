@@ -107,6 +107,7 @@ body {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  border-top: .5px solid #00000080
 }
 .footer-wrap img {
   width: 150px;
