@@ -33,7 +33,7 @@ export const linkList = [
     {
         "id" : "books__python",
         "name" : "Python Books",
-        "link" : "https://books.zuri.team/python-for-beginners?ref_id=samuel_adeniyi"
+        "link" : "https://books.zuri.team/python-for-beginners?ref_id=samueladeniyi"
     },
     {
         "id" : "pitch",
