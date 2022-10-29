@@ -59,7 +59,7 @@ export const linkList = [
     key: 4,
     id: 'books__python',
     name: 'Python Books',
-    link: 'https://books.zuri.team/python-for-beginners?ref_id=samueladeniyi',
+    link: 'https://books.zuri.team/python-for-beginners?ref_id=thefrontrade',
   },
   {
     key: 5,
